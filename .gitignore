@@ -1,0 +1,9 @@
+﻿#
+app/.env
+app/.venv/
+app/__pycache__/
+*.pyc
+.env
+*.env
+.venv/
+venv/
