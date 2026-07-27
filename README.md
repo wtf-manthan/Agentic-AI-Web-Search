@@ -1,4 +1,4 @@
-# 🌐 Autonomous Web Search RAG Agent (v2.0)
+# 🌐 Autonomous Web Search RAG Agent
 
 An enterprise-grade, agentic **Retrieval-Augmented Generation (RAG)** platform powered by **LangGraph**, **Groq AI (Llama 3.3)**, and **FAISS vector search**. Designed to autonomously research live web data, bypass modern anti-bot protections, and synthesize authoritative, grounded reports without hallucination.
 
@@ -107,7 +107,3 @@ Open **http://localhost:8000** in your browser to interact with the Web UI!
 * **LLM Synthesis (70B via Groq)**: ~1.40s
 * **Total Average Pipeline Latency**: **~5.7 seconds** (delivering deep multi-page research that would take humans 15+ minutes).
 
----
-
-## 📜 License
-MIT License. Created as an advanced engineering demonstration of Agentic RAG workflows.
